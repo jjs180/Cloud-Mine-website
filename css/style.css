@@ -437,7 +437,6 @@ header {
 }
 header .logo {
 	float: left;
-	position: absolute;
 }
 header .ownmenu {
 	float: right;
