@@ -260,6 +260,7 @@
 <?php include('footer.html') ?>
 
 <script type="text/javascript">
+/*
 $(function(){
     $().timelinr({
       orientation: 'horizontal',
@@ -298,6 +299,14 @@ $(function(){
       // value: integer (1000 = 1 seg), default to 2000 (2segs)< });
     });
   });
+  */
 </script>
+
+<script type="text/javascript">
+ $( document ).ready(function() {
+    $("li#nav_about").attr('class', 'active');
+}); 
+</script>
+
 </body>
 </html>

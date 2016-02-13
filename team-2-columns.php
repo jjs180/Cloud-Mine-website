@@ -200,4 +200,11 @@
   
 <?php include('footer.html') ?>
 </body>
+
+<script type="text/javascript">
+ $( document ).ready(function() {
+    $("li#nav_team").attr('class', 'active');
+}); 
+</script>
+
 </html>

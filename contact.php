@@ -143,5 +143,12 @@ if ($('#map').length) {
 }
 google.maps.event.addDomListener(window, 'load', initialize_map);
 </script>
+
+<script type="text/javascript">
+ $( document ).ready(function() {
+    $("li#nav_contact").attr('class', 'active');
+}); 
+</script>
+
 </body>
 </html>

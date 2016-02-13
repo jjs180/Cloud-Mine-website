@@ -231,4 +231,11 @@
   
 <?php include('footer.html') ?>
 </body>
+
+<script type="text/javascript">
+ $( document ).ready(function() {
+    $("li#nav_services").attr('class', 'active');
+}); 
+</script>
+
 </html>
