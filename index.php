@@ -704,8 +704,8 @@
 </body>
 
 <script type="text/javascript">
- $( document ).ready(function() {
-    $("li#nav_home").attr('class', 'active');
+$( document ).ready(function() {
+  $("li#nav_home").attr('class', 'active');
 }); 
 </script>
 
