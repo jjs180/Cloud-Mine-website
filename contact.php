@@ -1,62 +1,6 @@
 <?php include_once('header.html'); ?>
   
-  <!-- SUB BANNER -->
-  <section class="sub-bnr bnr-2" data-stellar-background-ratio="0.5">
-    <div class="position-center-center">
-      <div class="container">
-        <h4>contact</h4>
-        <!-- Breadcrumbs -->
-        <ol class="breadcrumb">
-          <li><a href="">Home</a></li>
-          <li class="active">contact</li>
-        </ol>
-      </div>
-    </div>
-  </section>
-  
-  <!-- Content -->
-  <div id="content">
-    <section class="padding-bottom-70">
-      <div class="contact-info padding-top-100 padding-bottom-100" data-stellar-background-ratio="0.5">
-        <div class="container"> 
-          
-          <!-- Heading -->
-          <div class="heading white text-center">
-            <h4>our headquarters</h4>
-            <span>We trust in longlasting partnerships with the most important brands on the market</span> </div>
-          <ul class="row">
-            
-            <!-- australia -->
-            <li class="col-sm-4">
-              <article>
-                <h5>australia</h5>
-                <p>121 King Street, Melbourne
-                <p>
-                <p>Victoria 3000 Australia </p>
-                <span class="margin-top-30"><i class="fa fa-phone-square"></i> 01234-345-67-67</span> <span class="primary-color"><i class="fa fa-envelope"></i> hello@uouapps.com</span> </article>
-            </li>
-            
-            <!-- australia -->
-            <li class="col-sm-4">
-              <article>
-                <h5>switzerland</h5>
-                <p>121 King Street, Melbourne
-                <p>
-                <p>Victoria 3000 Australia </p>
-                <span class="margin-top-30"><i class="fa fa-phone-square"></i> 01234-345-67-67</span> <span class="primary-color"><i class="fa fa-envelope"></i> hello@uouapps.com</span> </article>
-            </li>
-            <!-- australia -->
-            <li class="col-sm-4">
-              <article>
-                <h5>new york</h5>
-                <p>121 King Street, Melbourne
-                <p>
-                <p>Victoria 3000 Australia </p>
-                <span class="margin-top-30"><i class="fa fa-phone-square"></i> 01234-345-67-67</span> <span class="primary-color"><i class="fa fa-envelope"></i> hello@uouapps.com</span> </article>
-            </li>
-          </ul>
-        </div>
-      </div>
+
       <div class="container"> 
         
         <!-- Heading -->
@@ -98,12 +42,13 @@
                   </li>
                 </ul>
               </form>
+              <br/>
             </div>
           </div>
           
           <!-- MAP -->
           <div class="col-md-6">
-            <div id="map"></div>
+            <div id="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3310.7855431852513!2d-118.39228704933309!3d33.92091868054689!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2b6b2fff52631%3A0x2b195afcbcf58000!2s400+Continental+Blvd+6th+Floor%2C+El+Segundo%2C+CA+90245!5e0!3m2!1sen!2sus!4v1456034623931" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe></div>
           </div>
         </div>
       </div>
@@ -116,6 +61,7 @@
 <script type='text/javascript' src='http://maps.google.com/maps/api/js?sensor=false'></script> 
 <script type="text/javascript">
 /*==========  Map  ==========*/
+/*
 var map;
 function initialize_map() {
 if ($('#map').length) {
@@ -142,6 +88,7 @@ if ($('#map').length) {
 }
 }
 google.maps.event.addDomListener(window, 'load', initialize_map);
+*/
 </script>
 
 <script type="text/javascript">

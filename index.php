@@ -38,7 +38,7 @@
         <div class="container">
           <ul class="row list">
             <!-- Salesforce -->
-            <li class="col-md-4" data-content="#colio_c1">
+            <li class="col-md-4" data-content="#colio_c1_off">
               <article class="thumb"> <a class="button colio-link" href="#"> <i class="fa fa-bar-chart"></i>
                 <h5>Salesforce.com</h5>
                 <p>Sell, service, and market smarter and faster with a CRM tailored to your specific needs.</p>
@@ -46,7 +46,7 @@
             </li>
             
             <!-- Process Engineering -->
-            <li class="col-md-4" data-content="#colio_c2">
+            <li class="col-md-4" data-content="#colio_c2_off">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-cogs"></i>
                 <h5>Process Engineering</h5>
                 <p>Increase productivity through automation and streamlining of your business processes.</p>
@@ -54,7 +54,7 @@
             </li>
             
             <!-- Marketing Strategy-->
-            <li class="col-md-4" data-content="#colio_c3">
+            <li class="col-md-4" data-content="#colio_c3_off">
               <article class="thumb"><a class="button colio-link" href="#"><i class="fa fa-compass"></i>
                 <h5>Marketing Strategy</h5>
                 <p>Achieve maximum profit potential. Nurture, qualify, and convert more leads with comprehensive marketing strategy.</p>
@@ -62,23 +62,23 @@
             </li>
             
             <!-- Digital Marketing -->
-            <li class="col-md-4" data-content="#colio_c4">
+            <li class="col-md-4" data-content="#colio_c4_off">
               <article class="thumb"><a class="button colio-link" href="#"><i class="fa fa-line-chart"></i>
                 <h5>Digital Marketing</h5>
-                <p>Drive customer behavior online through a full suite of digital and web marketing services.</p>
+                <p>Generate more leads and engage customers through a full suite of digital and web marketing services.</p>
                 </a> </article>
             </li>
             
             <!-- Marketing Automation -->
-            <li class="col-md-4" data-content="#colio_c5">
+            <li class="col-md-4" data-content="#colio_c5_off">
               <article class="thumb"><a class="button colio-link" href="#"><i class="fa fa-play-circle"></i>
                 <h5>Marketing Automation</h5>
-                <p>Be more effective marketing on multiple channels by automating repetitive tasks that slow you down.</p>
+                <p>Automate and make your marketing more effective on multiple channels with tools like Marketo and Pardot.</p>
                 </a> </article>
             </li>
             
             <!-- Training -->
-            <li class="col-md-4" data-content="#colio_c6">
+            <li class="col-md-4" data-content="#colio_c6_off">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-users"></i>
                 <h5>Training</h5>
                 <p>Make your CRM work for you. Crush your sales with custom training solutions from Salesforce.com experts.</p>

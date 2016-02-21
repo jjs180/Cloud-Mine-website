@@ -1,11 +1,14 @@
 <?php include_once('header.html'); ?>
   
   <!-- SUB BANNER -->
+  <!--
   <section class="sub-bnr" data-stellar-background-ratio="0.5">
     <div class="position-center-center">
       <div class="container">
         <h1>a great company starts with us</h1>
+  
         <!-- Breadcrumbs -->
+  <!--
         <ol class="breadcrumb">
           <li><a href="#">Home</a></li>
           <li class="active">About</li>
@@ -13,7 +16,7 @@
       </div>
     </div>
   </section>
-  
+  -->
   <!-- Content -->
   <div id="content"> 
     
@@ -23,15 +26,16 @@
         <div class="who-we">
           <div class="row">
             <div class="col-md-6">
-              <h3 class="font-normal">who we are</h3>
-              <h6>Pushing out limits to provide the highest quality services</h6>
-              <p>Donec venenatis, turpis vel hendrerit interdum, dui ligula ultricies purus, sed posuere libero dui id orci. Nam congue, pede vitae dapibus aliquet, elit magna vulputate arcu, vel tempus metus leo non est. <br>
+              <h3 class="font-normal">WHO WE ARE</h3>
+              <h6>A different kind of consulting company focused on SME's</h6>
+              <p>We've polled our friends, colleagues, business partners and clients about the complaints they've had about working with traditional marketing agencies and consulting firms.  Now we're here to change everything. <br>
                 <br>
-                Etiam sit amet lectus quis est congue mollis. Phasellus congue lacus eget neque. Phasellus ornare, ante vitae consectetuer consequat, purus sapien ultricies dolor, et mollis pede metus eget nisi.
-                
+                Bureaucracy, unreasonably high rates of over $250 per hour, lack of understanding of your business and layers of salespeople, customer service and project managers between you and those who do the actual work...we listened and changed everything.
                  <br><br>
-
-                Phasellus ornare, ante vitae consectetuer consequat, purus sapien ultricies dolor,</p>
+                Every engagement with Cloud Mine Consulting is with a well-rounded team of versatile experts who will understand both your business and have the technical chops to implement your project.  
+                Rather than working with a project manager that will end up outsourcing your work halfway around the world, our consultants are responsible for both understanding your business needs and 
+                getting the work done.  No time wasted with go-betweens and nothing gets lost in translation.  Additionally, without the extra overhead of a traditional firm, we can pass the savings onto our
+                clients.  More of your dollar goes towards the actual work done, not the fancy offices and extra overhead of your consulting partner.</p>
             </div>
             <div class="col-md-6"> 
               
@@ -39,27 +43,33 @@
               <ul class="row">
                 
                 <!-- SERVICES -->
-                <li class="col-sm-6"> <i class="fa fa-eye"></i>
+                <!--
+                <li class="col-sm-6"> <i class="fa fa-flag"></i>
                   <h5>our vision</h5>
                   <p>Phasellus congue lacus eget neque. Phasellus ornare, vitae consectetuer consequat, purus sapien ultricies dolor,</p>
                 </li>
-                
+                -->
                 <!-- SERVICES -->
-                <li class="col-sm-6"> <i class="fa fa-rocket"></i>
-                  <h5>our mission</h5>
-                  <p>Phasellus congue lacus eget neque. Phasellus ornare, vitae consectetuer consequat, purus sapien ultricies dolor,</p>
+                <li class="col-sm-12"> <i class="fa fa-rocket"></i>
+                  <h5>OUR MISSION</h5>
+                  <p>Cloud Mine Consulting was conceived with the notion that small and medium-sized businesses should have access to the same quality of services offered by
+                  large multi-national consulting companies without having to pay the ridiculous prices they charge.  We've formed a team and an organizational structure that 
+                  cuts out all the extra overhead and fluff of a traditional agency to one that gets right down to the core work, delivering results that exceed expectations at
+                  prices that small-medium sized business can afford and realize high ROIs.</p>
                 </li>
-                
                 <!-- SERVICES -->
+                <!--
                 <li class="col-sm-6"> <i class="fa fa-diamond"></i>
                   <h5>our vision</h5>
                   <p>Phasellus congue lacus eget neque. Phasellus ornare, vitae consectetuer consequat, purus sapien ultricies dolor,</p>
                 </li>
-                
+                -->
                 <!-- SERVICES -->
-                <li class="col-sm-6"> <i class="fa fa-flag"></i>
-                  <h5>our vision</h5>
-                  <p>Phasellus congue lacus eget neque. Phasellus ornare, vitae consectetuer consequat, purus sapien ultricies dolor,</p>
+                <li class="col-sm-12"> <i class="fa fa-eye"></i>
+                  <h5>OUR VISION</h5>
+                  <p>We are here to challenge the status quo of consulting.  We aim to recruit and nurture a team that is both skilled in technical implementations
+                  and well-versed in understanding and solving business challenges.  The result is more successful projects that scale as your business grows and faster
+                  build times without the traditional back-and-forth that takes place between those who gather your business requirements and those who do the actual work.</p>
                 </li>
               </ul>
             </div>
@@ -68,171 +78,20 @@
       </div>
     </section>
     
-    <!-- Plan -->
-    <section class="light-gray-bg padding-top-70 padding-bottom-70">
-      <div class="container"> 
-        
-        <!-- Heading -->
-        <div class="heading text-left">
-          <h4>company history</h4>
-        </div>
-        
-        <!-- Start Timeline -->
-        <div id="timeline" class="col-lg-10 col-md-12 col-sm-12">
-          <ul id="dates" class="custom-list">
-            <li><a href="#date1"><span>1907</span></a></li>
-            <li><a href="#date2"><span>1914</span></a></li>
-            <li><a href="#date3"><span>1917</span></a></li>
-            <li><a href="#date4"><span>1948</span></a></li>
-            <li><a href="#date5"><span>1956</span></a></li>
-            <li><a href="#date6"><span>1968</span></a></li>
-            <li><a href="#date7"><span>1971</span></a></li>
-          </ul>
-          <ul id="issues" class="custom-list">
-            <li id="date1">
-              <div class="row">
-                <div class="history-thumbnail col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-7 col-sm-offset-0"> <img src="images/time-line-img.jpg" alt=""> </div>
-                <div class="history-content col-lg-5 col-md-5 col-sm-5"> <span class="date">October 21, 1907</span>
-                  <h5 class="title">Jack Sharp is born</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
-                </div>
-              </div>
-            </li>
-            <li id="date2">
-              <div class="row">
-                <div class="history-thumbnail col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-7 col-sm-offset-0"> <img src="images/time-line-img.jpg" alt=""> </div>
-                <div class="history-content col-lg-5 col-md-5 col-sm-5"> <span class="date">November 21, 1914</span>
-                  <h5 class="title">Jack Sharp is die</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
-                </div>
-              </div>
-            </li>
-            <li id="date3">
-              <div class="row">
-                <div class="history-thumbnail col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-7 col-sm-offset-0"> <img src="images/time-line-img.jpg" alt=""> </div>
-                <div class="history-content col-lg-5 col-md-5 col-sm-5"> <span class="date">January 11, 1917</span>
-                  <h5 class="title">Jane Sharp is born</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
-                </div>
-              </div>
-            </li>
-            <li id="date4">
-              <div class="row">
-                <div class="history-thumbnail col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-7 col-sm-offset-0"> <img src="images/time-line-img.jpg" alt=""> </div>
-                <div class="history-content col-lg-5 col-md-5 col-sm-5"> <span class="date">October 15, 1948</span>
-                  <h5 class="title">Phoebus Euandro start</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
-                </div>
-              </div>
-            </li>
-            <li id="date5">
-              <div class="row">
-                <div class="history-thumbnail col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-7 col-sm-offset-0"> <img src="images/time-line-img.jpg" alt=""> </div>
-                <div class="history-content col-lg-5 col-md-5 col-sm-5"> <span class="date">November 30, 1956</span>
-                  <h5 class="title">Tanya Dunn is born</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
-                </div>
-              </div>
-            </li>
-            <li id="date6">
-              <div class="row">
-                <div class="history-thumbnail col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-7 col-sm-offset-0"> <img src="images/time-line-img.jpg" alt=""> </div>
-                <div class="history-content col-lg-5 col-md-5 col-sm-5"> <span class="date">June 18, 1968</span>
-                  <h5 class="title">Angie Gutierren is born</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
-                </div>
-              </div>
-            </li>
-            <li id="date7">
-              <div class="row">
-                <div class="history-thumbnail col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-7 col-sm-offset-0"> <img src="images/time-line-img.jpg" alt=""> </div>
-                <div class="history-content col-lg-5 col-md-5 col-sm-5"> <span class="date">October 24, 1971</span>
-                  <h5 class="title">John Doe is born</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
-                </div>
-              </div>
-            </li>
-          </ul>
-          <a href="#" id="next"><i class="ion-ios-arrow-right"></i></a> <a href="#" id="prev"><i class="ion-ios-arrow-left"></i></a> </div>
-        <!-- End Timeline --> 
-        
-      </div>
-    </section>
-    
-    <!-- Plan -->
-    <section class="padding-top-70 padding-bottom-70">
-      <div class="container"> 
-        
-        <!-- Heading -->
-        <div class="heading text-center">
-          <h4>Select Your Plan to Start</h4>
-        </div>
-        
-        <!-- Plan -->
-        <div class="plan">
-          <ul class="row">
-            
-            <!-- starter -->
-            <li class="col-md-3">
-              <article>
-                <div class="price">
-                  <h6>starter</h6>
-                  <span class="currency">$</span>19<span class="period">/monthy</span></div>
-                <p class="light"><span>250MB</span> Memory</p>
-                <p><span>10</span> Projects</p>
-                <p class="light"><span>10GB </span>amount of space</p>
-                <a href="#." class="btn btn-1 margin-top-30">sign up <i class="fa fa-caret-right"></i></a> </article>
-            </li>
-            
-            <!-- Basic -->
-            <li class="col-md-3">
-              <article>
-                <div class="price">
-                  <h6>Basic</h6>
-                  <span class="currency">$</span>29<span class="period">/monthy</span></div>
-                <p class="light"><span>250MB</span> Memory</p>
-                <p><span>10</span> Projects</p>
-                <p class="light"><span>10GB </span>amount of space</p>
-                <a href="#." class="btn btn-1 margin-top-30">sign up <i class="fa fa-caret-right"></i></a> </article>
-            </li>
-            
-            <!-- pro -->
-            <li class="col-md-3">
-              <article>
-                <div class="price">
-                  <h6>pro</h6>
-                  <span class="currency">$</span>49<span class="period">/monthy</span></div>
-                <p class="light"><span>250MB</span> Memory</p>
-                <p><span>10</span> Projects</p>
-                <p class="light"><span>10GB </span>amount of space</p>
-                <a href="#." class="btn btn-1 margin-top-30">sign up <i class="fa fa-caret-right"></i></a> </article>
-            </li>
-            
-            <!-- ultra -->
-            <li class="col-md-3">
-              <article>
-                <div class="price">
-                  <h6>ultra</h6>
-                  <span class="currency">$</span>99<span class="period">/monthy</span></div>
-                <p class="light"><span>250MB</span> Memory</p>
-                <p><span>10</span> Projects</p>
-                <p class="light"><span>10GB </span>amount of space</p>
-                <a href="#." class="btn btn-1 margin-top-30">sign up <i class="fa fa-caret-right"></i></a> </article>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </section>
+
     <!-- Counter -->
+    <!--
     <section class="clients padding-top-100 padding-bottom-100">
       <div class="container"> 
         
         <!-- Heading -->
+        <!--
         <div class="heading text-center">
           <h4>Our Amazing Clients</h4>
           <span>We trust in longlasting partnerships with the most important brands on the market</span> </div>
         
         <!-- Clients -->
+        <!--
         <div class="single-slide">
           <div class="item">
             <ul class="row col-5">
@@ -255,6 +114,7 @@
         </div>
       </div>
     </section>
+    -->
   </div>
   
 <?php include('footer.html') ?>

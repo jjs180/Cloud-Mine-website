@@ -1,6 +1,7 @@
 <?php include_once('header.html'); ?>
   
   <!-- HOME MAIN SLIDER -->
+  <!--
   <section class="home-slide">
     <ul class="slides">
       <li class="slide-img-1" data-stellar-background-ratio="0.6">
@@ -17,7 +18,7 @@
       </li>
     </ul>
   </section>
-  
+  -->
   <!-- Content -->
   <div id="content"> 
     
@@ -33,58 +34,58 @@
         <!-- Row -->
         <div class="container">
           <ul class="row list">
-            <!-- Analytics -->
-            <li class="col-md-4" data-content="#colio_c1">
+            <!-- Salesforce -->
+            <li class="col-md-4" data-content="#colio_c1_off">
               <article class="thumb"> <a class="button colio-link" href="#"> <i class="fa fa-bar-chart"></i>
-                <h5>Analytics</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue.</p>
+                <h5>Salesforce.com</h5>
+                <p>Sell, service, and market smarter and faster with a CRM tailored to your specific needs.</p>
                 </a> </article>
             </li>
             
-            <!-- Storage -->
-            <li class="col-md-4" data-content="#colio_c2">
-              <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-archive"></i>
-                <h5>Storage</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue.</p>
+            <!-- Process Engineering -->
+            <li class="col-md-4" data-content="#colio_c2_off">
+              <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-cogs"></i>
+                <h5>Process Engineering</h5>
+                <p>Increase productivity through automation and streamlining of your business processes.</p>
                 </a> </article>
             </li>
             
-            <!-- Security -->
-            <li class="col-md-4" data-content="#colio_c3">
-              <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-shield"></i>
-                <h5>Security</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue.</p>
+            <!-- Marketing Strategy-->
+            <li class="col-md-4" data-content="#colio_c3_off">
+              <article class="thumb"><a class="button colio-link" href="#"><i class="fa fa-compass"></i>
+                <h5>Marketing Strategy</h5>
+                <p>Achieve maximum profit potential. Nurture, qualify, and convert more leads with comprehensive marketing strategy.</p>
                 </a> </article>
             </li>
             
-            <!-- Worth -->
-            <li class="col-md-4" data-content="#colio_c4">
-              <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-rocket"></i>
-                <h5>Worth</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue.</p>
+            <!-- Digital Marketing -->
+            <li class="col-md-4" data-content="#colio_c4_off">
+              <article class="thumb"><a class="button colio-link" href="#"><i class="fa fa-line-chart"></i>
+                <h5>Digital Marketing</h5>
+                <p>Generate more leads and engage customers through a full suite of digital and web marketing services.</p>
                 </a> </article>
             </li>
             
-            <!-- Worth -->
-            <li class="col-md-4" data-content="#colio_c5">
-              <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-comments-o"></i>
-                <h5>Dialogue</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue.</p>
+            <!-- Marketing Automation -->
+            <li class="col-md-4" data-content="#colio_c5_off">
+              <article class="thumb"><a class="button colio-link" href="#"><i class="fa fa-play-circle"></i>
+                <h5>Marketing Automation</h5>
+                <p>Automate and make your marketing more effective on multiple channels with tools like Marketo and Pardot.</p>
                 </a> </article>
             </li>
             
-            <!-- Worth -->
-            <li class="col-md-4" data-content="#colio_c6">
-              <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-bullhorn"></i>
-                <h5>Direction</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue.</p>
+            <!-- Training -->
+            <li class="col-md-4" data-content="#colio_c6_off">
+              <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-users"></i>
+                <h5>Training</h5>
+                <p>Make your CRM work for you. Crush your sales with custom training solutions from Salesforce.com experts.</p>
                 </a> </article>
             </li>
           </ul>
         </div>
       </div>
       
-      <!-- Analytics Tab Open -->
+      <!-- Salesforce Tab Open -->
       <div id="colio_c1" class="colio-content">
         <div class="main">
           <div class="container">
@@ -93,7 +94,7 @@
                 <div class="col-md-8"> 
                   <!-- Heading -->
                   <div class="heading text-left margin-bottom-40">
-                    <h4>Analytics</h4>
+                    <h4>Salesforce.com Services</h4>
                   </div>
                   <p> <strong> Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus pharetra nulla ac diam. Quisque semper justo at risus.</strong> <br>
                     <br>
@@ -108,7 +109,7 @@
         </div>
       </div>
       
-      <!-- Storage Tab Open -->
+      <!-- Process Engineering Tab Open -->
       <div id="colio_c2" class="colio-content">
         <div class="main">
           <div class="container">
@@ -118,7 +119,7 @@
                 <div class="col-md-8"> 
                   <!-- Heading -->
                   <div class="heading text-left margin-bottom-40">
-                    <h4>Storage</h4>
+                    <h4>Process Engineering</h4>
                   </div>
                   <p> <strong> Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus pharetra nulla ac diam. Quisque semper justo at risus.</strong> <br>
                     <br>
@@ -132,7 +133,7 @@
         </div>
       </div>
       
-      <!-- Security Tab Open -->
+      <!-- Marketing Strategy Tab Open -->
       <div id="colio_c3" class="colio-content">
         <div class="main">
           <div class="container">
@@ -141,7 +142,7 @@
                 <div class="col-md-8"> 
                   <!-- Heading -->
                   <div class="heading text-left margin-bottom-40">
-                    <h4>Security</h4>
+                    <h4>Marketing Strategy</h4>
                   </div>
                   <p> <strong> Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus pharetra nulla ac diam. Quisque semper justo at risus.</strong> <br>
                     <br>
@@ -156,7 +157,7 @@
         </div>
       </div>
       
-      <!-- Storage Tab Open -->
+      <!-- Digital Marketing Tab Open -->
       <div id="colio_c4" class="colio-content">
         <div class="main">
           <div class="container">
@@ -165,7 +166,7 @@
                 <div class="col-md-8"> 
                   <!-- Heading -->
                   <div class="heading text-left margin-bottom-40">
-                    <h4>Worth</h4>
+                    <h4>Digital Marketing</h4>
                   </div>
                   <p> <strong> Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus pharetra nulla ac diam. Quisque semper justo at risus.</strong> <br>
                     <br>
@@ -180,7 +181,7 @@
         </div>
       </div>
       
-      <!-- Security Tab Open -->
+      <!-- Marketing Automation Tab Open -->
       <div id="colio_c5" class="colio-content">
         <div class="main">
           <div class="container">
@@ -190,7 +191,7 @@
                 <div class="col-md-8"> 
                   <!-- Heading -->
                   <div class="heading text-left margin-bottom-40">
-                    <h4>Dialogue</h4>
+                    <h4>Marketing Automation</h4>
                   </div>
                   <p> <strong> Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus pharetra nulla ac diam. Quisque semper justo at risus.</strong> <br>
                     <br>
@@ -203,7 +204,7 @@
           </div>
         </div>
       </div>
-      <!-- Security Tab Open -->
+      <!-- Trainin Tab Open -->
       <div id="colio_c6" class="colio-content">
         <div class="main">
           <div class="container">
@@ -212,7 +213,7 @@
                 <div class="col-md-8"> 
                   <!-- Heading -->
                   <div class="heading text-left margin-bottom-40">
-                    <h4>Direction</h4>
+                    <h4>Training</h4>
                   </div>
                   <p> <strong> Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus pharetra nulla ac diam. Quisque semper justo at risus.</strong> <br>
                     <br>
@@ -227,6 +228,7 @@
         </div>
       </div>
     </section>
+    
   </div>
   
 <?php include('footer.html') ?>

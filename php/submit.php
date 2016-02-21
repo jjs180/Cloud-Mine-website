@@ -2,7 +2,7 @@
 
 
 // specify your email here
-$to = 'adnanarf@gmail.com';
+$to = 'jason@cloudmineconsulting.com';
 
 
 
@@ -13,7 +13,7 @@ $to = 'adnanarf@gmail.com';
     if (isset($_POST['message'])) { $message = $_POST['message']; }
 	
 	// Construct subject of the email
-	$subject = 'Contact Iquery ' . $name;
+	$subject = '[Cloud Mine Contact Form] ' . $name;
 
 	// Construct email body
 	$body_message .= 'NAME: ' . $name . "\r\n\n";
