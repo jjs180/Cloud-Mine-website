@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="omnivodigital.com" resolutions="1x" timestamp="1527118823448">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="omnivodigital.com" resolutions="1x" timestamp="1527197751047">
   <folder name="css">
     <file name="site_global.css" crc="3929365241"/>
     <file name="master_master.css" crc="4026884919" ref="team:index:testimonials:creative:about"/>
@@ -6,8 +6,8 @@
     <file name="team.css" crc="3905053599" ref="team"/>
     <file name="nomq_team.css" crc="4223333073" ref="team"/>
     <file name="iefonts_team.css" crc="419907663" ref="team"/>
-    <file name="index.css" crc="385813214" ref="index"/>
-    <file name="nomq_index.css" crc="3896237066" ref="index"/>
+    <file name="index.css" crc="4189012228" ref="index"/>
+    <file name="nomq_index.css" crc="529456199" ref="index"/>
     <file name="iefonts_index.css" crc="419907663" ref="index"/>
     <file name="testimonials.css" crc="417684818" ref="testimonials"/>
     <file name="nomq_testimonials.css" crc="4122180934" ref="testimonials"/>
@@ -482,9 +482,9 @@
     <file name="cmicon_creativedigital.svg" crc="51112038" ref="creative"/>
     <file name="cmicon_creativedigital_poster_u112838.png" crc="3990096816" ref="creative"/>
   </folder>
-  <file name="index.html" crc="4226594670" seo="true" mt="1527118578338" redirect="true"/>
-  <file name="about.html" crc="275173070" seo="true" mt="1527118590259" redirect="true"/>
-  <file name="team.html" crc="377661307" seo="true" mt="1527118607345" redirect="true"/>
-  <file name="testimonials.html" crc="168632469" seo="true" mt="1527118615973" redirect="true"/>
-  <file name="creative.html" crc="3824889761" seo="true" mt="1527118598226" redirect="true"/>
+  <file name="index.html" crc="4225835321" seo="true" mt="1527197630753" redirect="true"/>
+  <file name="about.html" crc="188045113" seo="true" mt="1527197383228" redirect="true"/>
+  <file name="team.html" crc="4046716125" seo="true" mt="1527197383228" redirect="true"/>
+  <file name="testimonials.html" crc="504230687" seo="true" mt="1527197383228" redirect="true"/>
+  <file name="creative.html" crc="106138553" seo="true" mt="1527197383228" redirect="true"/>
 </manifest>
